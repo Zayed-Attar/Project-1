@@ -1,1 +1,1 @@
-# Project-1
+This project is a responsive website for OmniFoods, a plant-based food innovation company. The site provides an overview of the brand, its mission, and its product range, with a clean and modern design.
